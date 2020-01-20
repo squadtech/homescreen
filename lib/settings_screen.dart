@@ -36,7 +36,7 @@ class SettingsScreenState extends State<SettingsScreen> {
             ),
           ),
         ],
-        elevation: 1.0,
+        elevation: 2.0,
       ),
    /*   bottomNavigationBar: NavigationBar(pageIndex: 0),
       body: Column(
